@@ -1,4 +1,12 @@
 {
-    "servers": ["https://raw.githubusercontent.com/codeagon/no-drunk-screen/master/"],
+    "disableAutoUpdate": false,
+    "name": "No Drunk Screen",
+    "author": "Pentagon",
+    "description": "Hides vomit inducing effects",
+    "version": "1.0",
+    "donationUrl": "https://ko-fi.com/codeagon",
+    "servers": [
+        "https://raw.githubusercontent.com/codeagon/no-drunk-screen/master/"
+    ],
     "supportUrl": "https://discord.gg/maqBmJV"
 }
